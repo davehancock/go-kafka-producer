@@ -1,6 +1,5 @@
 # go-producer
 
-Simple go kafka producer.
+Simple example of a go kafka producer.
 
-Might use to publish events to hue...?
-
+Uses confluent-kafka-go as the library of choice.
